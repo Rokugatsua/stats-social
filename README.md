@@ -1,2 +1,4 @@
 # stats-social
-Statistic for Social, a learn repo
+Statistic for Social, a repository for learn statistic social.
+
+
